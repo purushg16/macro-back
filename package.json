@@ -16,6 +16,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "python": "3.11.5"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
