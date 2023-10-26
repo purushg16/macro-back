@@ -6,8 +6,6 @@ const cors = require('cors');
 const multer = require('multer');
 const uuid= require('uuid');
 const fs = require('fs');
-const Segregate = require('./Segregation');
-
 
 const app = express();
 app.use(cors());
